@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="7.2.0" name="FileEncodingConvertor" packageVersion="1.0.0" vendor="Foxon.cz">
+            <JarResources>
+                <FileResource description="" file="fileencodingconvertor.jar" type="JAR"/>
+            </JarResources>
+        </ExtensionPackage>
+    </ExtensionPackages>
+    <Resources>
+        <Resource aspect.isCreatable="false" aspect.isEditableExtensionObject="false" className="cz.foxon.file.FileEncodingConverter" description="" name="FileEncodingConverter"/>
+    </Resources>
+</Entities>
